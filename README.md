@@ -28,18 +28,8 @@ The Depth-First Search (DFS) algorithm is a fundamental graph traversal techniqu
 
 ## Usage
 
-To generate a maze, simply run the script `generate_maze.py`. You can specify the dimensions of the maze as command-line arguments:
+To generate a maze, simply run the script `maze.py`. You can specify the dimensions of the maze as command-line arguments:
 
 bash
-
-Sao chép mã
 
 `py maze.py` 
-
-For example, to generate a 20x20 maze:
-
-bash
-
-Sao chép mã
-
-`python generate_maze.py 20 20` 
